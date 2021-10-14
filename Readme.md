@@ -1,1 +1,6 @@
-See comments on `src/main.js`.
+## Build
+
+```sh
+$ yarn install
+$ yarn dev
+```
